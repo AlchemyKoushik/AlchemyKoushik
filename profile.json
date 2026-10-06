@@ -2,9 +2,11 @@
   "username": "AlchemyKoushik",
   "display_name": "Koushik Bhandary",
   "terminal_user": "koushik",
-  "headline": "Your role · Your focus · Your edge",
-  "portfolio_url": "https://example.com",
-  "linkedin_url": "https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE",
-  "email": "YOUR_EMAIL@example.com",
+  "headline": "Business Intelligence and Automation Expert",
+  "linkedin_url": "https://www.linkedin.com/in/koushik-bhandary-ai",
+  "emails": [
+    "koushiknox@gmail.com",
+    "koushik.bhandary@alchemy-research.com"
+  ],
   "source_photo": "source-photo.jpg"
 }

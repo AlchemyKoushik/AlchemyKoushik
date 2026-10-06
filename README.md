@@ -21,12 +21,11 @@
 
 <h3><code>koushik@github ~ $ ./links.sh</code></h3>
 
-<p><b>Your role · Your focus · Your edge</b></p>
+<p><b>Business Intelligence and Automation Expert</b></p>
 
-<!-- Update these URLs after filling in profile.json. -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Email-contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-bhandary-ai)
+[![Personal Email](https://img.shields.io/badge/Personal_Email-contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushiknox@gmail.com)
+[![Work Email](https://img.shields.io/badge/Work_Email-contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushik.bhandary@alchemy-research.com)
 
 <br>
 
@@ -34,7 +33,7 @@
 
 ## Local setup
 
-1. Edit [`profile.json`](./profile.json) with your GitHub username, display name, terminal handle, and photo filename; update the headline and badge URLs in this README.
+1. Edit [`profile.json`](./profile.json) with your GitHub username, display name, terminal handle, and photo filename.
 2. Put your portrait at the repository root using that filename. A well-lit, high-contrast photo works best.
 3. Install dependencies and generate the portrait:
 
