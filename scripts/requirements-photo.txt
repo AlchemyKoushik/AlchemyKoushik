@@ -1,0 +1,5 @@
+-r requirements.txt
+Pillow>=10.0
+numpy>=1.26
+opencv-python>=4.10
+rembg>=2.0

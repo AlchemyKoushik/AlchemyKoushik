@@ -1,0 +1,5 @@
+# Keep the original portrait and intermediate preprocessing output local.
+source-photo.*
+source-prepped.*
+.venv/
+__pycache__/
